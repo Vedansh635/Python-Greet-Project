@@ -1,2 +1,1 @@
-# Python-Greet-Project
-This is a repository where you can get python-greet-project code .
+This program displays the current time in 12-hour format (AM/PM) along with a greeting message based on the time of day. It prints "Good Morning", "Good Afternoon", or "Good Night" depending on the current hour, and also displays the current time in the format "It's [hour] [AM/PM] : [minutes] : [seconds]".
